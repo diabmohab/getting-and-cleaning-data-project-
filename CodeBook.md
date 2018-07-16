@@ -1,7 +1,11 @@
 
-                                                                 Mohab Diab
+                                                                 #Mohab Diab
+                                                                 
 ## Measurements
-
+*mean(): Mean value
+*std(): Standard deviation
+--------------------------------------------------------------
+## The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels)
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
 * `tBodyAccMeanZ`
@@ -82,7 +86,7 @@
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-## Activity Labels
+## The data were averaged based on subject and activity group
 
 * `WALKING` (value `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
