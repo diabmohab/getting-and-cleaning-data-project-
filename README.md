@@ -6,6 +6,7 @@
 Getting and Cleaning Data Project assignment
 
 The main Targets:
+
 1- downloading the datasets in the directory
 
 2- activity & features loading
